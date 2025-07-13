@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build StudentLogs",
+      "type": "shell",
+      "commandLine": "javac -cp \".;lib/mysql-connector-j-8.4.0.jar\" StudentLogs.java",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
