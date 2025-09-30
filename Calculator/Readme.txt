@@ -66,9 +66,9 @@ MyCalc.java   # Main source code
 
 ---
 
-## 📸 Screenshot (Optional)
 
-*(You can add a screenshot of the calculator GUI here after running it.)*
+
+
 
 ---
 
